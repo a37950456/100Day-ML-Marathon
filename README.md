@@ -8,4 +8,6 @@
 * D6： EDA: Outlier 及處理
 * D7： 常用的數值取代：中位數與分位數連續數值標準化
 * D8： 資料清理數據前處理
-
+* D9： EDA: correlation/相關係數簡介
+* D10：EDA from Correlation
+* D11：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
