@@ -11,3 +11,5 @@
 * D9： EDA: correlation/相關係數簡介
 * D10：EDA from Correlation
 * D11：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
+* D12：EDA: 把連續型變數離散化
+* D13：程式實作 把連續型變數離散化
