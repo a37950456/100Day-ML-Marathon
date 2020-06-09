@@ -1,6 +1,28 @@
 # 100Day-ML-Marathon
+* D1： Data Analysis and Evaluation
+* D2： Exploratory Data Analysis(EDA):Data summary 
+* D3： How to build a datafram and how to read datafile
+* D4： EDA: Introduction of data classifficaion and how to deal with it
+* D5： EDA: Data distributed
+* D6： EDA: Outlier and how to deal with it
+* D7： Common replacement: Mediaum and Quantile standardalize 
+* D8： Preprocessing
+* D9： EDA: correlation
+* D10： EDA from correlation
+* D11： kernel Density EStimation (KDE)
+* D12： EDA: continuous data transform to distrete data 
+* D13： implement D12
+* D14： Subplots
+* D15： Heatmap & Grid-plot
+* D16： Model: Logistic Regression
+* D17： Introction of feature engineering
+* D18： Feature classfication
+* D19： Numerical feature - fix missing data and normalize 
+* D20： Numerical feature - fix outlier
+
+
 ## 第二屆《機器學習百日馬拉松》練習
-* D1： 資料分析與評估
+* D1： 資料分析與評估 
 * D2： EDA-1/讀取資料Exploratory Data Analysis(EDA):Data summary     
 * D3： 3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)
 * D4： EDA: 欄位的資料類型介紹及處理
