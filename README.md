@@ -16,9 +16,9 @@
 * D15： Heatmap & Grid-plot
 * D16： Model: Logistic Regression
 * D17： Introction of feature engineering
-* D18： Feature classfication
-* D19： Numerical feature - fix missing data and normalize 
-* D20： Numerical feature - fix outlier
+* D18： Feature type
+* D19： Numerical feature - Fill NaN and Scalers
+* D20： Numerical feature - Fix outlier
 * D21： Numerical feature - Reduce Skewness
 
 ## 第二屆《機器學習百日馬拉松》練習
