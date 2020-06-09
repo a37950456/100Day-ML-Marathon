@@ -19,7 +19,7 @@
 * D18： Feature classfication
 * D19： Numerical feature - fix missing data and normalize 
 * D20： Numerical feature - fix outlier
-
+* D21： Numerical feature - Reduce Skewness
 
 ## 第二屆《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
@@ -42,3 +42,4 @@
 * D18：特徵類型
 * D19：數值型特徵-補缺失值與標準化
 * D20：數值型特徵 - 去除離群值
+* D21：數值型特徵 - 去除偏態
