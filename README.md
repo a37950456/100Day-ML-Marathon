@@ -22,7 +22,7 @@
 * D21： Numerical feature - Reduce Skewness
 * D22： LabelEncoder and OneHotEncoder
 
-## 第二屆《機器學習百日馬拉松》練習
+## 《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
 * D2： EDA-1/讀取資料Exploratory Data Analysis(EDA):Data summary     
 * D3： 3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)
