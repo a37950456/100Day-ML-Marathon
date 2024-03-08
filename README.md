@@ -20,7 +20,10 @@
 * D19： Numerical feature - Fill NaN and Scalers
 * D20： Numerical feature - Fix outlier
 * D21： Numerical feature - Reduce Skewness
-* D22： LabelEncoder and OneHotEncoder
+* D22： Introduction of feature Engineering LabelEncoder and OneHotEncoder
+* D23:  Numerical feature - Reduce Skewness
+* D24:  Object feature - Remove Skewness
+* D25:  Object feature - Mean Encoder
 
 ## 《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
@@ -42,6 +45,7 @@
 * D17：特徵工程簡介
 * D18：特徵類型
 * D19：數值型特徵-補缺失值與標準化
-* D20：數值型特徵 - 去除離群值
-* D21：數值型特徵 - 去除偏態
-* D22：類別型特徵 - 基礎處理
+* D22：特徵工程簡介
+* D23：數值型特徵 - 去除偏態
+* D23：類別型特徵 - 基礎處理
+* D25：類別型特徵 - 均值編碼
