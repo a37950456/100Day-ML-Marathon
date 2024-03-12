@@ -24,6 +24,7 @@
 * D23:  Numerical feature - Reduce Skewness
 * D24:  Object feature - Remove Skewness
 * D25:  Object feature - Mean Encoder
+* D26:  Object feature - Others(Counting, Feature Hash)
 
 ## 《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
@@ -49,3 +50,4 @@
 * D23：數值型特徵 - 去除偏態
 * D23：類別型特徵 - 基礎處理
 * D25：類別型特徵 - 均值編碼
+* D26: 類別型特徵 - 其他進階處理(計數編碼Counting, 特徵雜湊Feature Hash)
