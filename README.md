@@ -26,7 +26,7 @@
 * D25:  Object feature - Mean Encoder
 * D26:  Object feature - Others(Counting, Feature Hash)
 * D27: DayTime feature - Cycling
-* D28: Feature combination - Numeric and Numeric Combinations
+* D28: Feature Crosses - Numeric and Numeric Combinations
 
 ## 《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
