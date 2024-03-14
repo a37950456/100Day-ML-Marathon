@@ -28,6 +28,8 @@
 * D27: DayTime feature - Cycling
 * D28: Feature Crosses - Numeric and Numeric Combinations
 * D29: Feature Crosses - Cluster Encoding
+* D30: Feature Selection/Filtering and Features
+* D31: Feature importance
 
 ## 《機器學習百日馬拉松》練習
 * D1： 資料分析與評估 
@@ -56,4 +58,6 @@
 * D26: 類別型特徵 - 其他進階處理(計數編碼Counting, 特徵雜湊Feature Hash)
 * D27: 時間型特徵 - 
 * D28: 特徵組合 - 數值與數值組合
-* D28: 特徵組合 - 類別與數值組合
+* D29: 特徵組合 - 類別與數值組合
+* D30: 特徵選擇
+* D31: 特徵評估
