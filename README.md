@@ -2,7 +2,7 @@
 * D1： Data Analysis and Evaluation
 * D2： Exploratory Data Analysis(EDA):Data summary 
 * D3： How to build a datafram and how to read datafile
--------------------- Data Science Data Preprocessing --------------------
+*-------------------- Data Science Data Preprocessing --------------------
 * D4： EDA: Introduction of data classifficaion and how to deal with it
 * D5： EDA: Data distributed
 * D6： EDA: Outlier and how to deal with it
@@ -16,7 +16,7 @@
 * D14： Subplots
 * D15： Heatmap & Grid-plot
 * D16： Model: Logistic Regression
--------------------- Data Science Feature Engineering --------------------
+*-------------------- Data Science Feature Engineering --------------------
 * D17： Introction of feature engineering
 * D18： Feature type
 * D19： Numerical feature - Fill NaN and Scalers
@@ -33,7 +33,7 @@
 * D30:  Feature Selection/Filtering and Features
 * D31:  Feature importance
 * D32:  Leaf Encoding
--------------------- Machine Learning Modeling --------------------
+*-------------------- Machine Learning Modeling --------------------
 * D33:  How did machine Learning Learn
 * D34:  Concecpt for Regression, Classification
 * D35:  Regression V.S. Classification
