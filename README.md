@@ -1,4 +1,6 @@
 # 100Day-ML-Marathon
+
+## Supervise Learning - labeled training data
 * D1： Data Analysis and Evaluation
 * D2： Exploratory Data Analysis(EDA):Data summary 
 * D3： How to build a datafram and how to read datafile
@@ -38,6 +40,30 @@
 * D34:  Concecpt for Regression, Classification
 * D35:  Regression V.S. Classification
 * D36:  Evaulation Metrics
+* D37:  Regression Model Introduction - Linear Regression/ Logestic Regression
+* D38:  Regression Model coding practice - Linear Regression/ Logestic Regression
+* D39:  Regression Model Introduction - LASSO/ Ridge
+* D40:  Regression Model coding practice - LASSO/ Ridge
+* D41:  Tree Base Model - Decision Tree Introduction
+* D42:  Tree Base Model - Decision Tree Coding Practice
+* D43:  Tree Base Model - Random Forest Decision Tree
+* D44:  Tree Base Model - Random Forest Coding Practice
+* D45:  Tree Base Model - Gradient Boosting Machine
+* D46:  Tree Base Model - Gradient Boosting Coding Practice
+* -------------------- Machine Learning Modeling Hyperparameter Tuning --------------------
+* D47: Parameter tuning and optimization
+* D48: Kaggle
+* D49: Ensible Methods: Blending
+* D50: Ensible Methods: Stacking
+
+## Unsupervised Learning - no labeled
+
+* D54: Unsupervised Learning Introduction
+* D55: Unsupervised Learning Algorithm Clustering - K-Means Clustering
+* D56: Unsupervised Learning Algorithm Clustering - K-Means Clustering - Silhouette analysis
+* D57: Unsupervised Learning Algorithm Clustering - Hierarchical Clustering
+
+
 
 
 
