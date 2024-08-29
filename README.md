@@ -51,49 +51,62 @@
 * D45:  Tree Base Model - Gradient Boosting Machine
 * D46:  Tree Base Model - Gradient Boosting Coding Practice
 * -------------------- Machine Learning Modeling Hyperparameter Tuning --------------------
-* D47: Parameter tuning and optimization
-* D48: Kaggle
-* D49: Ensible Methods: Blending
-* D50: Ensible Methods: Stacking
+* D47:  Parameter tuning and optimization
+* D48:  Kaggle
+* D49:  Ensible Methods: Blending
+* D50:  Ensible Methods: Stacking
 
 ## Unsupervised Learning - no labeled
+* D54:  Unsupervised Learning Introduction
+* D55:  Unsupervised Learning Algorithm Clustering - K-Means Clustering
+* D56:  Unsupervised Learning Algorithm Clustering - K-Means Clustering - Silhouette analysis
+* D57:  Unsupervised Learning Algorithm Clustering - Hierarchical Clustering
+* D58:  Unsupervised Learning Algorithm Clustering - Hierarchical Clustering - 2D dataset
+* D59:  Dimention Reduction 1 - PCA
+* D60:  PCA - MNIST
+* D61:  Dimention Reduction 2 - T-SNE
+* D62:  T-SNE
 
-* D54: Unsupervised Learning Introduction
-* D55: Unsupervised Learning Algorithm Clustering - K-Means Clustering
-* D56: Unsupervised Learning Algorithm Clustering - K-Means Clustering - Silhouette analysis
-* D57: Unsupervised Learning Algorithm Clustering - Hierarchical Clustering
+## Supervised Learning Deep Neural Network
+* D63:  Introduction for DNN( Supervised Learning Deep Neural Network)
+* D64:  Lab: TensorFlowPlayGround
+* D65:  Lab: TensorFlowPlayGround - Regularizaion, Sigmoid / Tanh
 
+## Deep Learning on Keras
+* D66:  Introducion of Keras
+* D67:  Keras Dataset
+* D68:  Keras Sequentail API
+* D69:  Keras Module API
+* D70:  Knowledge of Deep Neural Networks
+* D71:  Loss Functions
+* D72:  Activation Function
+* D73:  Gradient Descend (1/2)
+* D74:  Gradient Descend (2/2)
+* D75:  Back Propagation
+* D76:  Optimizers
+* D77:  Validation and Overfitting
+* D78:  KeyNote before Training Model
+* D79:  Learning Rate Effect
+* D80:  Combination of Optomizer and Learning Rate
+* D81:  Avoid Overfitting - Regularization
+* D82:  Avoid Overfitting - Dropout
+* D83:  Avoid Overfitting - Batch Normalization
+* D84:  Avoid Overfitting - Hyper-Parameters Tuning and Comparison
+* D85:  Avoid Overfitting - Early Stop
+* D86:  Saving and Restoring Model
+* D87:  Learning Rate Decay
+* D88:  Design your Keras Callbacks Function
+* D89:  Design your Loss Funciton
+* D90:  Image Recognition using Tranditional Computer Vsion Methods
+* D91:  Image Recognition using Machine Learning Model
 
-
-
-
-## 《機器學習百日馬拉松》練習
-* D1： 資料分析與評估 
-* D2： EDA-1/讀取資料Exploratory Data Analysis(EDA):Data summary     
-* D3： 3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料)
-* D4： EDA: 欄位的資料類型介紹及處理
-* D5： EDA資料分佈
-* D6： EDA: Outlier 及處理
-* D7： 常用的數值取代：中位數與分位數連續數值標準化
-* D8： 資料清理數據前處理
-* D9： EDA: correlation/相關係數簡介
-* D10：EDA from Correlation
-* D11：EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE)
-* D12：EDA: 把連續型變數離散化
-* D13：程式實作 把連續型變數離散化 
-* D14：Subplots
-* D15：Heatmap & Grid-plot
-* D16：模型初體驗 Logistic Regression
-* D17：特徵工程簡介
-* D18：特徵類型
-* D19：數值型特徵-補缺失值與標準化
-* D22：特徵工程簡介
-* D23：數值型特徵 - 去除偏態
-* D23：類別型特徵 - 基礎處理
-* D25：類別型特徵 - 均值編碼
-* D26: 類別型特徵 - 其他進階處理(計數編碼Counting, 特徵雜湊Feature Hash)
-* D27: 時間型特徵 - 
-* D28: 特徵組合 - 數值與數值組合
-* D29: 特徵組合 - 類別與數值組合
-* D30: 特徵選擇
-* D31: 特徵評估
+## Convolutional Neural Network (CNN) in Deep Learning
+* D92:  Introdoction of CNN (1/2)
+* D93:  Introdoction of CNN (2/2)
+* D94:  Parameters Tuning in CNN Layer
+* D95:  Pooling Layer in Keras
+* D96:  CNN Layer in Keras
+* D97:  CNN vs. DNN on CIFAR-10
+* D98:  Data Generator in Keras
+* D99:  Data Augmentation in Keras
+* D100:  Transfer Learning
